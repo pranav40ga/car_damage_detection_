@@ -1,13 +1,5 @@
-# Streamlit frontend
 streamlit==1.24.1
-
-# Core ML + image processing
-numpy==1.25.2
-Pillow==12.0.0
-ultralytics==8.1.7
-
-# OpenCV (headless version for cloud deployment)
+numpy==1.24.4
+pillow==9.5.0
 opencv-python-headless==4.8.1.78
-
-# Optional dependency for ultralytics
-thop==0.1.1.post2209072238
+ultralytics==8.1.7
